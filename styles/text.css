@@ -1,0 +1,29 @@
+
+
+
+.code {
+  margin-top: 20px;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.changing-text {
+  background-color: #f8e100;
+  font-size: 1em;
+  line-height: 0.9em;
+  margin-left: 0.15em;
+  margin-right: 0.15em;
+  margin-top: 0.15em;
+  padding-left: 0.125em;
+  padding-right: 0.125em;
+  text-transform: capitalize;
+  will-change: width;
+  font-family: "Bubbler One","webster", marketweb, Market OT, sans-serif;
+}
+
+.bracket {
+  font-size: 1.4em;
+  line-height: 1.15;
+  font-family: tenso, sans-serif;
+  font-weight: 500;
+}
